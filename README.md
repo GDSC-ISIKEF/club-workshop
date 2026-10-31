@@ -1,10 +1,10 @@
 # club-workshop
 
-hands-on repo for the **git & gitHub** session, run by **GDSC ISIKEF** and **Mosaïque Club**
+hands-on repo for the **git & gitHub** session, run by **GDSC ISIKEF** and **Mosaïque Clu
 
 Everyone here practices the same workflow you'll use on real projects: branch, commit, push, open a pull request, review, merge!
 
-## before you start
+## before you start test
 
 - install [git](https://git-scm.com/downloads)
 - create a [github account](https://github.com/signup) and confirm you can log in
